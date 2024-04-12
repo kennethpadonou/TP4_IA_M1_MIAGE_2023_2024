@@ -14,6 +14,18 @@
 
     <p></p>
 
+    <label for="temperature">Temperature:</label>
+    <input type="range" id="temperature" name="temperature" min="0" max="1" step="0.1" value="0.5">
+    <span id="temperatureValue">0.5</span>
+
+    <br>
+
+    <label for="maxTokens">Nombre maximal de tokens:</label>
+    <input type="range" id="maxTokens" name="maxTokens" min="7" max="30" value="7">
+    <span id="maxTokensValue">7</span>
+
+    <br>
+    
     <button>Envoyer Requête sur API d'OpenAI avec le modèle gpt-3.5-turbo-instruct</button>
     <p>
       Note: ce modèle est 10x moins cher à l'usage que le "gros modèle" pour
