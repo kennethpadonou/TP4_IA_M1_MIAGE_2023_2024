@@ -1,0 +1,30 @@
+Afficher plusieurs peinture connu
+
+
+demande des requetes !
+/image  utilise moi ce style pour me faire une peinture d'un enfant qui court dans le près.
+/image Fais moi un tableau de la renaissance.
+
+
+exemple de question prédéfini
+Quelle est ce portrait ? 
+qui la peint
+
+Quand on génère un art, on l'enregiste et on l'affiche dans l'html.
+Attention de bien recuperer le discriminant du nom via l'id. (lié à la requête peut etre ? --> non pas la peine.)
+
+
+______
+historique : 
+tout stocker dans le localstorage
+
+pour afficher le chat box, j'ai pensé à laffiche totalement dans la sidebar, car facilement responsive.
+
+faire un json data contenant toutes les infos 
+
+
+
+
+
+_______ 
+le mieux : faire le projet en angular, 
