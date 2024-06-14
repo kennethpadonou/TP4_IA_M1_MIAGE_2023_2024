@@ -1,3 +1,4 @@
+/*
 const endpointURL = 'http://localhost:3001/chat';
 
 let outputElement, submitButton, inputElement, historyElement, butonElement;
@@ -76,3 +77,4 @@ async function getResponseFromServer(prompt) {
     }
 }
 
+*/

@@ -7,4 +7,6 @@
 // Sur windows:
 // set OPENAI_API_KEY="votre_clé_api"
 
+//export const API_KEY = ''; //export const API_KEY = process.env.OPENAI_API_KEY;
+//client = OpenAI(api_key='')
 export const API_KEY = process.env.OPENAI_API_KEY;

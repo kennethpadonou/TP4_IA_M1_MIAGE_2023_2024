@@ -1,0 +1,81 @@
+[
+  {
+    "title": "La Jeune Fille à la perle de Johannes",
+    "image": "https://www.singulart.com/blog/wp-content/uploads/2023/10/Girl-with-a-Pearl.jpg",
+    "mouvement": "Baroque hollandais",
+    "style": "Clair-obscur, détails minutieux, utilisation subtile de la lumière",
+    "personnalité": "Sensible, mystérieuse, énigmatique",
+    "auteur": "Johannes Vermeer"
+  },
+  {
+    "title": "L'école d'Athènes",
+    "image": "https://images-e-venise.global.ssl.fastly.net/pics/musees-rome/vatican/raphael-sanzio-ecole-athenes-vatican-rome-01.jpg?width=350&quality=75&dpr=2",
+    "mouvement": "Renaissance",
+    "style": "Perspectives linéaires, symétrie, figures idéalisées",
+    "personnalité": "Intellectuelle, harmonieuse, classique",
+    "auteur": "Raphaël"
+  },
+  {
+    "title": "American Gothic",
+    "image": "https://www.singulart.com/blog/wp-content/uploads/2023/10/American-Gothic-1140x1376.jpg",
+    "mouvement": "Réalisme américain",
+    "style": "Réalisme précis, détails minutieux",
+    "personnalité": "Austère, sérieuse, traditionnelle",
+    "auteur": "Grant Wood"
+  },
+  {
+    "title": "La Joconde",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg",
+    "mouvement": "Renaissance",
+    "style": "Portrait, détails minutieux, utilisation subtile de la lumière",
+    "personnalité": "Mystérieuse, sereine, énigmatique",
+    "auteur": "Leonardo da Vinci"
+  },
+  {
+    "title": "Le Cri",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Scream.jpg",
+    "mouvement": "Expressionnisme",
+    "style": "Couleurs vives, lignes tourmentées, expression de l'angoisse",
+    "personnalité": "Angoissé, intense, dramatique",
+    "auteur": "Edvard Munch"
+  },
+  {
+    "title": "Les Nymphéas",
+    "image": "https://www.repro-tableaux.com/kunst/claude_monet/Wasserlilien.jpg",
+    "mouvement": "Impressionnisme",
+    "style": "Coups de pinceau visibles, lumière naturelle, couleurs vibrantes",
+    "personnalité": "Paisible, harmonieux, contemplatif",
+    "auteur": "Claude Monet"
+  },
+  {
+    "title": "La Nuit étoilée",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/260px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "mouvement": "Post-impressionnisme",
+    "style": "Coups de pinceau tourbillonnants, couleurs vives, ciel étoilé",
+    "personnalité": "Tourmenté, rêveur, introspectif",
+    "auteur": "Vincent van Gogh"
+  },
+  {
+    "title": "Guernica",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/74/PicassoGuernica.jpg",
+    "mouvement": "Cubisme",
+    "style": "Formes géométriques, monochromatique, expression de la souffrance",
+    "personnalité": "Tragique, intense, protestataire",
+    "auteur": "Pablo Picasso"
+  },
+  {
+    "title": "Le Déjeuner sur l'herbe",
+    "image": "https://www.connaissancedesarts.com/wp-content/thumbnails/uploads/2020/04/cda20_focus_monet_dejeuner_main-tt-width-1200-height-675-fill-0-crop-1-bgcolor-ffffff.jpg",
+    "mouvement": "Réalisme",
+    "style": "Figures réalistes, nature, contraste",
+    "personnalité": "Provocateur, naturaliste, réaliste",
+    "auteur": "Édouard Manet"
+  },
+  {
+    "title": "La Nuit étoilée",
+    "image": "http://localhost:3001/images/image_1718370886036.png",
+    "mouvement": "Post-impressionnisme",
+    "style": "Coups de pinceau tourbillonnants, couleurs vives, ciel étoilé",
+    "personnalité": "Tourmenté, rêveur, introspectif"
+  }
+]

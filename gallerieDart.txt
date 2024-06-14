@@ -27,4 +27,10 @@ faire un json data contenant toutes les infos
 
 
 _______ 
-le mieux : faire le projet en angular, 
+le mieux : faire le projet en angular,
+
+
+
+
+Requierement.txt :
+npm install axios
