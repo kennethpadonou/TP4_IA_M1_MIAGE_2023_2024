@@ -74,7 +74,15 @@ document.addEventListener('DOMContentLoaded', function () {
                     selectedPersonnalité: selectedPersonnalité // Remplacez par la valeur réelle
                 };
             }
-
+            /*else if (messageText.startsWith('/generateTableau')) {
+                const improvePromptResponse = await fetch(endpointURL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ prompt: prompt_brut })
+                });
+            }*/
             try {
                 const response = await fetch(url, {
                     method: 'POST',
