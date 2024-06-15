@@ -1,38 +1,46 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<title>ArtGPT = Gallerie d'art</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ArtGPT = Gallerie d'art</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="css/style_Gallerie.css">
     <link rel="stylesheet" href="css/chatbox.css">
-    <!--
-        <script src="js/testRequestDavinCi.js"></script>
-        -->
     <script type="module" src="js/sendRequestToServer.js"></script>
     <script src="js/generateGallery.js"></script>
     <script src="js/chatbox.js"></script>
-    
 </head>
 <body>
-
-<h2 style="color: white;">La gallerie d'art</h2>
-<p style="color: white; font-size: 14px;">Intégration de l'intelligence artificielle</p>
-
-<div class="row">
-
-</div>
-
-<!-- Chatbox container -->
-<div class="chatbox">
-  <div class="chatbox-header">Chat avec ArtGPT</div>
-  <div class="chatbox-messages"></div>
-  <div class="chatbox-input">
-    <input type="text" id="chatbox-input" placeholder="Écrivez un message..." />
-    <button id="chatbox-send">Envoyer</button>
+  <!-- Header de la page -->
+  <div class="header">
+      <h2>La galerie d'art</h2>
+      <p>Intégration de l'intelligence artificielle</p>
   </div>
-</div>
 
+  <div class="container">
+      <!-- Barre latérale pour les conversations -->
+      <div class="sidebar">
+          <button id="new-conversation">Nouvelle Conversation</button>
+          <ul id="conversations-list"></ul>
+      </div>
+
+      <!-- Conteneur principal (galerie) -->
+      <div class="main-content">
+          <!-- Votre contenu principal ici -->
+          <div class="row"></div>
+      </div>
+  </div>
+
+  <!-- Boîte de chat -->
+  <div class="chat-container">
+      <div class="chatbox">
+          <div class="chatbox-header">Chat avec ArtGPT</div>
+          <div class="chatbox-messages"></div>
+          <div class="chatbox-input">
+              <input type="text" id="chatbox-input" placeholder="Écrivez un message..." />
+              <button id="chatbox-send">Envoyer</button>
+          </div>
+      </div>
+  </div>
 </body>
 </html>
