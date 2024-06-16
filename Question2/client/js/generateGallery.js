@@ -63,8 +63,9 @@ document.addEventListener('DOMContentLoaded', function () {
                 selectedMouvement = item.mouvement;
                 selectedStyle = item.style;
                 selectedPersonnalité = item.personnalité;
+                selectedAuthor = item.auteur;
                 // Stocker les variables sélectionnées dans le localStorage
-                updateSelectedVariablesAndLocalStorage(item.title, item.mouvement, item.style, item.personnalité);
+                updateSelectedVariablesAndLocalStorage(item.title, item.mouvement, item.style, item.personnalité, item.auteur);
                 console.log('Oeuvre sélectionnée:', {
                     title: selectedTitle,
                     mouvement: selectedMouvement,
@@ -94,5 +95,6 @@ document.addEventListener('DOMContentLoaded', function () {
         localStorage.setItem('selectedMouvement', selectedMouvement);
         localStorage.setItem('selectedStyle', selectedStyle);
         localStorage.setItem('selectedPersonnalité', selectedPersonnalité);
+        localStorage.setItem('selectedAuthor', selectedAuthor);
     }
 });

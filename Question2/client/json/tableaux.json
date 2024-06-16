@@ -77,6 +77,53 @@
     "mouvement": "Post-impressionnisme",
     "style": "Coups de pinceau tourbillonnants, couleurs vives, ciel étoilé",
     "personnalité": "Tourmenté, rêveur, introspectif"
+  },
+  {
+    "title": "La Jeune Fille à la perle de Johannes",
+    "image": "http://localhost:3001/images/image_1718490280747.png",
+    "mouvement": "Baroque hollandais",
+    "style": "Clair-obscur, détails minutieux, utilisation subtile de la lumière",
+    "personnalité": "Sensible, mystérieuse, énigmatique",
+    "auteur": "Inconnu"
+  },
+  {
+    "title": "L'école d'Athènes",
+    "mouvement": "Renaissance",
+    "style": "Perspectives linéaires, symétrie, figures idéalisées",
+    "personnalité": "Intellectuelle, harmonieuse, classique",
+    "auteur": "Inconnu",
+    "imageLink": "http://localhost:3001/images/image_1718490922770.png"
+  },
+  {
+    "title": "American Gothic",
+    "mouvement": "Réalisme américain",
+    "style": "Réalisme précis, détails minutieux",
+    "personnalité": "Austère, sérieuse, traditionnelle",
+    "auteur": "Inconnu",
+    "imageLink": "http://localhost:3001/images/image_1718491237377.png"
+  },
+  {
+    "title": "American Gothic",
+    "mouvement": "Réalisme américain",
+    "style": "Réalisme précis, détails minutieux",
+    "personnalité": "Austère, sérieuse, traditionnelle",
+    "auteur": "Inconnu",
+    "imageLink": "http://localhost:3001/images/image_1718491458744.png"
+  },
+  {
+    "title": "L'école d'Athènes",
+    "mouvement": "Renaissance",
+    "style": "Perspectives linéaires, symétrie, figures idéalisées",
+    "personnalité": "Intellectuelle, harmonieuse, classique",
+    "auteur": "Inconnu",
+    "imageLink": "http://localhost:3001/images/image_1718491652002.png"
+  },
+  {
+    "title": "La Jeune Fille à la perle de Johannes",
+    "image": "http://localhost:3001/images/image_1718491968955.png",
+    "mouvement": "Baroque hollandais",
+    "style": "Clair-obscur, détails minutieux, utilisation subtile de la lumière",
+    "personnalité": "Sensible, mystérieuse, énigmatique",
+    "auteur": "Inconnu"
   }
-  
 ]
